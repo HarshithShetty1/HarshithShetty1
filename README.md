@@ -1,39 +1,55 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi 👋, I'm Harshith N Shetty
 
-###
+<h3 align="center">Aspiring Full Stack Developer | Information Science Engineering Student | Java & Python Enthusiast</h3>
 
-<p align="left">My name is Har and I'm a ..., from ....</p>
+---
 
-###
+## 👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+🎓 B.E. in Information Science and Engineering  
+🏫 AJ Institute of Engineering and Technology  
+🎓 Graduating in 2027
 
-###
+💻 Passionate about:
+- Full Stack Development
+- Java Programming
+- Machine Learning
+- Databases
+- Problem Solving
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+🌱 Currently Learning
+- Spring Boot
+- React
+- REST APIs
+- Data Structures & Algorithms
 
-###
+🎯 Goal
+Become a skilled Full Stack Developer and build impactful software solutions.
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 🚀 Languages and Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-###
+---
+
+## 📫 Connect with Me
+
+📧 Email: **shettyharshith177@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/harshith-n-shetty-60a227306/
+
+---
+
+⭐ Thanks for visiting my profile!
